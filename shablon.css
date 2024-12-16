@@ -35,3 +35,7 @@ header, footer, nav, main, article, div{
 #ads{
     grid-area: ads
 }
+
+#section2 {
+    color: blue;
+}
