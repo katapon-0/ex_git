@@ -25,9 +25,7 @@ header, footer, nav, main, article, div{
 }
 
 #main{
-    grid-area: main;
-    margin: 10px;
-    padding: 20px
+    grid-area: main
 }
 
 #nav{
@@ -36,6 +34,11 @@ header, footer, nav, main, article, div{
 
 #ads{
     grid-area: ads
+}
+
+.section {
+    margin: 10px;
+    padding: 20px
 }
 
 .section1 {
